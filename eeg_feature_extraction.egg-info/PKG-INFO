@@ -1,0 +1,11 @@
+Metadata-Version: 2.1
+Name: eeg_feature_extraction
+Version: 0.1.0
+Summary: Feature extraction methods for EEG data (CSP, TDP, PSD).
+Home-page: https://github.com/hyojinlim24/EEG-Feature-Extraction
+Author: Hyojin Lim
+Author-email: hyojinl@uw.edu
+License-File: LICENSE
+Requires-Dist: numpy
+Requires-Dist: scipy
+Requires-Dist: matplotlib

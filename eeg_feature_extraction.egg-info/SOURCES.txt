@@ -1,0 +1,15 @@
+LICENSE
+README.md
+setup.py
+eeg_feature_extraction/__init__.py
+eeg_feature_extraction/csp.py
+eeg_feature_extraction/psd.py
+eeg_feature_extraction/tdp.py
+eeg_feature_extraction.egg-info/PKG-INFO
+eeg_feature_extraction.egg-info/SOURCES.txt
+eeg_feature_extraction.egg-info/dependency_links.txt
+eeg_feature_extraction.egg-info/requires.txt
+eeg_feature_extraction.egg-info/top_level.txt
+tests/test_csp.py
+tests/test_psd.py
+tests/test_tdp.py
